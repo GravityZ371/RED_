@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Rocket : MonoBehaviour
 {
-    Rigidbody rigidbody;
-
+    new Rigidbody rigidbody;
+    public int speed;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,11 +26,11 @@ public class Rocket : MonoBehaviour
         }
         if(Input.GetKey(KeyCode.A))
         {
-            print("Rotating Left");
+            transform.Rotate(Vector3.forward * speed * Time.deltaTime);
         }
         else if(Input.GetKey(KeyCode.D))
         {
-            print("Rotating Left");
+            transform.Rotate(-Vector3.forward * speed * Time.deltaTime);
         }
     }
 }

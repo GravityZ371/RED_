@@ -308,6 +308,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: RocketShip
       objectReference: {fileID: 0}
+    - target: {fileID: 8170546743193766645, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 28c6c008e43aacb49b64fbc82c13a7dc, type: 3}
+    - target: {fileID: 8170546743193766645, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
+        type: 3}
+      propertyPath: m_Volume
+      value: 0.15
+      objectReference: {fileID: 0}
     - target: {fileID: 9108775166734784977, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
         type: 3}
       propertyPath: m_LocalPosition.x

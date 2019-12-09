@@ -309,6 +309,7 @@ PrefabInstance:
       value: RocketShip
       objectReference: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 8170546743193766645, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
         type: 3}
       propertyPath: m_audioClip
@@ -319,6 +320,8 @@ PrefabInstance:
       propertyPath: m_Volume
       value: 0.15
 =======
+=======
+>>>>>>> parent of 405db47... Added sound and applied prefabs
     - target: {fileID: 7408133670339148722, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -328,6 +331,9 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 1.05
+<<<<<<< HEAD
+>>>>>>> parent of 405db47... Added sound and applied prefabs
+=======
 >>>>>>> parent of 405db47... Added sound and applied prefabs
       objectReference: {fileID: 0}
     - target: {fileID: 9108775166734784977, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
@@ -338,7 +344,7 @@ PrefabInstance:
     - target: {fileID: 9108775166734784977, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.15
+      value: -0.01
       objectReference: {fileID: 0}
     - target: {fileID: 9108775166734784977, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
         type: 3}
@@ -387,6 +393,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43b82e2a9867c1a44b3313eb0a4113ff, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1346398957 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6262525337473365299, guid: 43b82e2a9867c1a44b3313eb0a4113ff,
@@ -422,6 +429,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 45
+=======
+>>>>>>> parent of eab11d5... Space key controls
 --- !u!1001 &4504017238670912704
 PrefabInstance:
   m_ObjectHideFlags: 0
